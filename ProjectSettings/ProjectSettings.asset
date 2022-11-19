@@ -700,11 +700,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 231f0846-e681-4c63-9ec9-5ecf82236690
+  cloudProjectId: 
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: test3
-  organizationId: cr4yfish
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
